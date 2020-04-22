@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+    background: url("../images/concrete_seamless.png");
+  }
+  /* Navbar and Logo */
+.my-headerrow{
+  width: auto;
+  color: #ffffff;
+  background: #ffffff;
+  border-bottom: 2px solid #cccccc;
+}
+.my-logo{
+  color: #ffffff;
+  background: #4aaaa5;
+  border: #4aaaa5 solid 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+  text-align: center;
+}
+.my-col {
+  font-size: 15px;
+  text-align: center;
+  padding: 1%;
+}
+
+  /* Main Cotent */
+  .my-container{
+    background-color: #ffffff;
+    border: #cccccc solid 1px;
+    padding-bottom: 15px;
+    max-width: 980px;
+  }
+.main-row{
+line-height: 15px;
+}
+.main-header{
+border-bottom: 3px solid #cccccc;
+margin-bottom: 25px;
+
+}
+.text-image-row{
+margin-left: auto;
+margin-right: auto;
+}
+.my-img{
+  max-width: 250px;
+  max-height: 250px;
+  
+  
+}
+.my-text{
+margin: 15px;
+}
+
+
